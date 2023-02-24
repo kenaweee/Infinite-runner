@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{213249BD-7817-978D-BB00-8781BC277B8E}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/scripts/sphere.cs">
+    <Files>
+      <File FileName="Assets/scripts/sphere.cs" Line="129" Column="9" />
+      <File FileName="Assets/scripts/spawn.cs" Line="7" Column="14" />
+      <File FileName="Assets/scripts/mainmenu.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="mini project" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="ball" expanded="True" />
+              <Node name="scripts" expanded="True">
+                <Node name="sphere.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="a88fc0aa-0781-490b-97b0-d3cb72591a54" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
